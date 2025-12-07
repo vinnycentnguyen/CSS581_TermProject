@@ -204,5 +204,5 @@ class ModelExecutor:
         self.split_test_train()
         self.lasso()
         self.ridge()
-        self.random_forest_estimators()
+        # self.random_forest_estimators()
         self.random_forest()
